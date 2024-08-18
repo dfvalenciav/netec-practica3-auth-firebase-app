@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1023823563078",
+    "project_id": "test-flutter-apps-d49c7",
+    "storage_bucket": "test-flutter-apps-d49c7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1023823563078:android:1e9a5803704eab20de3d47",
+        "android_client_info": {
+          "package_name": "co.com.daval.auth_firebase_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDVkTQ5EX05ygz8UEsZy9BnOij6IdGR1ZA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
